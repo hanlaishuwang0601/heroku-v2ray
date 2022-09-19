@@ -5,7 +5,7 @@
     "keywords": ["xray","v2ray"],
     "env": {
         "UUID": {
-            "description": "30f0c420-6101-4d9b-9c1a-15bf805e2baa",
+            "description": "d8058e19-5c61-4ce2-9a76-6ef9f88cd11b",
             "required": true        
         }
     },
